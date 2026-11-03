@@ -70,4 +70,3 @@
 ### 💻 소스 코드 및 저장소 파일 바로가기
 * [💻 C# 리버스 방탈출 게임 소스 코드 (Commit)](https://github.com/cuttyjiyun/Activities-Archive/commit/3eb4911250faaadfae5ec93df035fa08dee32f48)
   * 실감미디어 마이크로디그리 EXPO 출품작 (`oop.리버스 방탈출.cs`)
-* [📁 C# 리버스 방탈출 게임 소스 코드 폴더](./src/ReverseEscapeRoom/)
