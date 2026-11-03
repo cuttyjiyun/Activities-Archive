@@ -59,15 +59,15 @@
 
 📂 Related Files & Links
 
-### 📄 주요 문서 및 교안 다운로드 (Releases)
+### 📄 주요 문서 및 교안 다운로드
 * [📄 세천초등학교 엔트리 SW 교육 기획서 (PDF)](https://github.com/cuttyjiyun/Activities-Archive/releases/download/v1.0.0/default.pdf)
-  * 코드클럽 한국위원회 계코 코코봉팀 멘토링 수업 자료
-* [📄 국어 글쓰기 공모전 원고 및 상장 (PDF/HWP)](https://github.com/cuttyjiyun/Activities-Archive/releases/download/v1.0.0/default.pdf)
+  * 코드클럽 한국위원회 계코 코코봉팀 멘토링 수업 자료 (Releases)
+* [📄 국어 글쓰기 공모전 원고 및 제출 자료](https://github.com/cuttyjiyun/Activities-Archive/commit/3eb4911250faaadfae5ec93df035fa08dee32f48)
   * 주제: "성공이란 무엇인가" / 제출 제목: <성공은 주말마다 왔다> (장려상 입상)
 
 ---
 
 ### 💻 소스 코드 및 저장소 파일 바로가기
-* [💻 C# 리버스 방탈출 게임 소스 코드 (C#)](./src/ReverseEscapeRoom/oop.리버스%20방탈출.cs)
-  * 실감미디어 마이크로디그리 EXPO 출품작
-* [📁 C# 리버스 방탈출 게임 전체 소스 폴더](./src/ReverseEscapeRoom/)
+* [💻 C# 리버스 방탈출 게임 소스 코드 (Commit)](https://github.com/cuttyjiyun/Activities-Archive/commit/3eb4911250faaadfae5ec93df035fa08dee32f48)
+  * 실감미디어 마이크로디그리 EXPO 출품작 (`oop.리버스 방탈출.cs`)
+* [📁 C# 리버스 방탈출 게임 소스 코드 폴더](./src/ReverseEscapeRoom/)
