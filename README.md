@@ -57,16 +57,17 @@
 
 ---
 
-## 📂 Related Files & Links
+📂 Related Files & Links
 
-- 📄 **국어 글쓰기 공모전 원고 (HWP)**: [`./docs/공모전_성공은_주말마다_왔다.hwp`](./docs/공모전_성공은_주말마다_왔다.hwp)
-  - *주제: "성공이란 무엇인가" / 제출 제목: <성공은 주말마다 왔다> (장려상 입상)*
-- 📄 **세천초등학교 엔트리 SW 교육 기획서 (PDF)**: [`./docs/엔트리_숨바꼭질_게임_만들기_최최종!.pdf`](./docs/엔트리_숨바꼭질_게임_만들기_최최종!.pdf)
-  - *코드클럽 한국위원회 계코 코코봉팀 멘토링 수업 자료*
-- 💻 **C# 리버스 방탈출 게임 소스 코드 (C#)**: [`./src/ReverseEscapeRoom/oop.리버스 방탈출.cs`](./src/ReverseEscapeRoom/oop.리버스 방탈출.cs)
-  - *실감미디어 마이크로디그리 EXPO 출품작*
+### 📄 주요 문서 및 교안 다운로드 (Releases)
+* [📄 세천초등학교 엔트리 SW 교육 기획서 (PDF)](https://github.com/cuttyjiyun/Activities-Archive/releases/download/v1.0.0/엔트리_숨바꼭질_게임_만들기_최최종!_2.pdf)
+  * 코드클럽 한국위원회 계코 코코봉팀 멘토링 수업 자료
+* [📄 국어 글쓰기 공모전 원고 및 상장 (PDF/HWP)](https://github.com/cuttyjiyun/Activities-Archive/releases/download/v1.0.0/Success-Essay-Award.pdf)
+  * 주제: "성공이란 무엇인가" / 제출 제목: <성공은 주말마다 왔다> (장려상 입상)
 
+---
 
-- `docs/Entry-HideAndSeek-Game.pdf`: 세천초등학교 엔트리 수업 기획서 및 교재
-- `docs/Success-Essay-Award.pdf`: 글쓰기 공모전 장려상 제출 원고 및 상장
-- `src/ReverseEscapeRoom/`: C# 리버스 방탈출 게임 소스 코드
+### 💻 소스 코드 및 저장소 파일 바로가기
+* [💻 C# 리버스 방탈출 게임 소스 코드 (C#)](./src/ReverseEscapeRoom/oop.리버스%20방탈출.cs)
+  * 실감미디어 마이크로디그리 EXPO 출품작
+* [📁 C# 리버스 방탈출 게임 전체 소스 폴더](./src/ReverseEscapeRoom/)
